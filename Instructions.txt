@@ -1,0 +1,13 @@
+First time git push -
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/AnkitKumar129/Gitbash-instructions.git
+git push -u origin master
+
+Other times git push -
+
+git add .
+git commit -m "first commit"
+git push
